@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-using-operator\bin\Debug\netcoreapp3.1\dotnet-using-operator.exe
+D:\CodeGym\Practice\dotnet-using-operator\bin\Debug\netcoreapp3.1\dotnet-using-operator.deps.json
+D:\CodeGym\Practice\dotnet-using-operator\bin\Debug\netcoreapp3.1\dotnet-using-operator.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-using-operator\bin\Debug\netcoreapp3.1\dotnet-using-operator.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-using-operator\bin\Debug\netcoreapp3.1\dotnet-using-operator.dll
+D:\CodeGym\Practice\dotnet-using-operator\bin\Debug\netcoreapp3.1\dotnet-using-operator.pdb
+D:\CodeGym\Practice\dotnet-using-operator\obj\Debug\netcoreapp3.1\dotnet-using-operator.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-using-operator\obj\Debug\netcoreapp3.1\dotnet-using-operator.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-using-operator\obj\Debug\netcoreapp3.1\dotnet-using-operator.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-using-operator\obj\Debug\netcoreapp3.1\dotnet-using-operator.dll
+D:\CodeGym\Practice\dotnet-using-operator\obj\Debug\netcoreapp3.1\dotnet-using-operator.pdb
